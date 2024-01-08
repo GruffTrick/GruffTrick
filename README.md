@@ -1,6 +1,6 @@
 ## Hi! I'm Gruff :) 👋
 
-Software Engineer, writing primarily in Java, Rust, and Python.
+Software Engineer, web developer and all-round tech enthusiast. I am writing primarily in Java, Rust, and Python.
 
 
 ***My Languages:***
