@@ -1,6 +1,6 @@
 ## Hi! I'm Gruff :) 👋
 
-Software Engineer, web developer and all-round tech enthusiast. I comfortably work across the full-stack using languages such as Java, Rust, and Python, in addition to HTML/CSS, JavaScript and React.
+Software Engineer, Web Developer and all-round tech enthusiast. I comfortably work across the full-stack; Primarily Java, Rust, JavaScript and React.
 
 
 ***My Languages:***
@@ -12,7 +12,6 @@ Software Engineer, web developer and all-round tech enthusiast. I comfortably wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-</code>
 
 <!--
 **GruffTrick/GruffTrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
