@@ -1,6 +1,6 @@
 ## Hi! I'm Gruff :) 👋
 
-Software Engineer, Web Developer and all-round tech enthusiast. I comfortably work across the full-stack; Primarily Java, Rust, JavaScript and React.
+Full-Stack Software Developer and all-round tech enthusiast. I primarily work Java, Spring, TypeScript and Rust :)
 
 
 ***My Languages:***
